@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/小垃圾学Java/jsp-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/小垃圾学Java/druid-1.1.10.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/小垃圾学Java/mysql-connector-java-8.0.27.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/小垃圾学Java/servlet-api.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/小垃圾学Java/lib_thymeleaf" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/小垃圾学Java/lib_thymeleaf" recursive="false" />
+  </library>
+</component>
